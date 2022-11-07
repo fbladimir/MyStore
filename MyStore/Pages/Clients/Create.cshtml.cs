@@ -32,7 +32,8 @@ namespace MyStore.Pages.Clients
                 return; 
             }
 
-            //Here we need to save new client into the database
+            //Save New Clients into Database 
+
             try
             {
 
