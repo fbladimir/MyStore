@@ -5,7 +5,10 @@ This simple website has a store of clients that contains their name, phone, addr
 In this website, the admin has the option to edit, add and delete a client from the database. 
 
 #Website Overview 
-![Front](https://prnt.sc/ZONKIS7VeKgS)
+<p align="center">
+  <img src="https://prnt.sc/rDgE_OLcieWQ" width="350" title="hover text">
+  <img src="https://prnt.sc/rDgE_OLcieWQ" width="350" alt="accessibility text">
+</p>
 
 #Technologies Used 
 
