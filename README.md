@@ -6,8 +6,7 @@ In this website, the admin has the option to edit, add and delete a client from 
 
 #Website Overview 
 <p align="center">
-  <img src="https://prnt.sc/rDgE_OLcieWQ" width="350" title="hover text">
-  <img src="https://prnt.sc/rDgE_OLcieWQ" width="350" alt="accessibility text">
+  <img src="https://prnt.sc/rDgE_OLcieWQ" width="350"> 
 </p>
 
 #Technologies Used 
