@@ -6,7 +6,18 @@ In this website, the admin has the option to edit, add and delete a client from 
 
 #Website Overview
 
-![TEST!](https://prnt.sc/qqCDCJq9OFv5) 
+![front](https://user-images.githubusercontent.com/67939160/200243312-b06105ed-6a78-4fd8-90df-362a34d94c3a.png)
+Quick view of front of page.
+
+![clientpage](https://user-images.githubusercontent.com/67939160/200243345-1d4ed140-434d-4fd7-8cdf-ab071467f390.png)
+Page showing all clients. 
+
+
+![addclientpage](https://user-images.githubusercontent.com/67939160/200243388-931e231a-21f0-429a-91df-5f704372f784.png)
+Ability to add client
+
+![editpage](https://user-images.githubusercontent.com/67939160/200243403-f116eefc-baf0-4742-a24b-6ef8a681f0c0.png)
+Ability to edit clients. 
 
 #Technologies Used 
 
